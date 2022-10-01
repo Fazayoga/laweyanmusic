@@ -12,9 +12,6 @@
     <title>Laweyan Music Store</title>
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link href="https://fonts.googleapis.com/css2?family=Quicksand&display=swap" rel="stylesheet">
-
-    <link rel="shortcut icon" href="img/favicon.ico" 
-    style="width:150px;height:150px;">
 </head>
 <body>
     <!--header-->
