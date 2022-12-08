@@ -222,6 +222,17 @@ header ul li a{
 }
 
 @media screen and (max-width= 768px) {
+    .body {
+        width: 100%;
+        height: auto;
+    }
+
+    .header {
+        width: 100%;
+        height: auto;
+        margin: 0 auto 0 auto;
+    }
+    
     .container {
         width: 90%;
     }
