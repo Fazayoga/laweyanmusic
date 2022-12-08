@@ -93,8 +93,11 @@ header ul li a{
 }
 
 .container{
-    width: 1500px;
+    width: auto;
+    height: auto;
+    float: right;
     margin: 0 auto;
+    padding: auto;
 }
 
 .container:after {
@@ -104,7 +107,9 @@ header ul li a{
 }
 
 .section{
-    padding: 25px 0;
+    width: 1100px;
+    margin: auto;
+    position: relative;
 }
 
 .box{
@@ -345,6 +350,8 @@ header ul li a{
         content: '';
         display: block;
         clear: both;
+        width: 100%;
+        height: auto;
     }
 
     .section{
