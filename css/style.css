@@ -6,6 +6,8 @@
 }
 
 body {
+    margin: 0px;
+    padding: 0px;
     background-color: #f8f8f8;
 }
 
@@ -63,6 +65,8 @@ a{
 }
 
 header {
+    margin: 0px;
+    padding: 0px;
     border: 1px solid;
     background-color: #C70039;
     color: #fff;
