@@ -311,6 +311,8 @@ header ul li a{
 
     footer{
         padding: 25px 0;
+        width: 100%;
+        height: auto;
     }
 
     header h1{
@@ -336,6 +338,7 @@ header ul li a{
     .container{
         width: 1500px;
         margin: 0 auto;
+        height: auto;
     }
 
     .container:after {
@@ -346,6 +349,8 @@ header ul li a{
 
     .section{
         padding: 25px 0;
+        width: 100%;
+        height: auto;
     }
 
     .box{
